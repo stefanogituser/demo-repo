@@ -1,2 +1,4 @@
 # Demo
-A demo git initiated file
+A demo git initiated file.
+
+It will be cloned into vs code
